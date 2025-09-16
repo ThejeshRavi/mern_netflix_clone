@@ -35,6 +35,7 @@ The Netflix Clone project replicates key features of a streaming platform, inclu
 |              | Mongoose                       | MongoDB ORM |
 |              | Cookie-Parser                  | Handle cookies for auth |
 | Security     | JWT                            | Authentication |
+| Testing      | Postman                        | API testing and debugging |
 | Deployment   | Express static middleware      | Serve frontend build |
 
 ---
@@ -46,3 +47,7 @@ The Netflix Clone project replicates key features of a streaming platform, inclu
 - **Search**: Search movies or TV shows dynamically.  
 - **Responsive UI**: Works on desktop and mobile screens.  
 - **Footer with GitHub link**: Easily link to your GitHub profile or project.  
+
+---
+
+This Project demonstrates skills in full-stack development, API design, Postman testing, and modern frontend/backend integration. It showcases how to build a responsive, production-ready web application with authentication, protected routes, search functionality, and API testing.
