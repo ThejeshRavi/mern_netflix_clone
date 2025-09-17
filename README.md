@@ -8,9 +8,8 @@ A full-stack **Netflix-inspired streaming platform** built with **React, Express
 
 ## 🌐 Live Demo
 
-[👉 View the deployed site on Netlify](https://mern-netflics.netlify.app/)
+[👉Netflics-Clone](https://mern-netflics.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_SITE_ID/deploy-status)](https://your-site-name.netlify.app)
 
 ---
 
