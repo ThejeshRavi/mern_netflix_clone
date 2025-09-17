@@ -6,6 +6,14 @@ A full-stack **Netflix-inspired streaming platform** built with **React, Express
 
 ---
 
+## 🌐 Live Demo
+
+[👉 View the deployed site on Netlify](https://mern-netflics.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_SITE_ID/deploy-status)](https://your-site-name.netlify.app)
+
+---
+
 ## 🌟 Project Overview
 
 The Netflix Clone project replicates key features of a streaming platform, including:
@@ -50,4 +58,4 @@ The Netflix Clone project replicates key features of a streaming platform, inclu
 
 ---
 
-This Project demonstrates skills in full-stack development, API design, Postman testing, and modern frontend/backend integration. It showcases how to build a responsive, production-ready web application with authentication, protected routes, search functionality, and API testing.
+This project demonstrates skills in full-stack development, API design, Postman testing, and modern frontend/backend integration. It showcases how to build a responsive, production-ready web application with authentication, protected routes, search functionality, and API testing.
